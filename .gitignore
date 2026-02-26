@@ -1,0 +1,16 @@
+# 默认忽略的文件
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.venv/
+venv/
+.env
