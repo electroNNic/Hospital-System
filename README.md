@@ -20,7 +20,7 @@ It supports login, viewing admission records, creating new admissions, and updat
 - **Backend:** Python, Flask
 - **Database:** PostgreSQL
 - **DB Driver:** psycopg2
-- **Frontend:** HTML (Jinja2 templates), CSS, jQuery
+- **Frontend:** HTML, CSS, jQuery
 
 ---
 
